@@ -10,7 +10,7 @@ def character_count_update(event):
     c=len(content)-1
     char_count_label.config(text=f"Character Count : {c}")
 def save_file(event=None):
-    download_path = os.path.expanduser("~\Downloads")
+    download_path = os.path.expanduser("~/Downloads")
     base_file_name = "secret_note"
     file_extension = ".txt"
     file_index = 1
@@ -22,8 +22,11 @@ def save_file(event=None):
         file_path = os.path.join(download_path, file_name)
     
     with open(file_path, 'w') as file:
+<<<<<<< HEAD
         download_path = os.path.expanduser("~\Documents")
         file_path = os.path.join(download_path, file_name)
+=======
+>>>>>>> ab05d485ccc4479c535dab2bf50a83a2820464ec
         content = random.choice(fake_data)
         file.write(content)
         print("File saved")
@@ -66,8 +69,6 @@ mainwindow.bind("<FocusOut>", on_focus_out)
 
 save_button=tk.Button(root , text="Save the secret message with Encryption",font=("Verdana",12), command=save_file)
 save_button.pack(pady=10)
-
-
 
 def on_text_change(event):
     mainwindow.config(fg="black")
