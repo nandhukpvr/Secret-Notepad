@@ -28,6 +28,14 @@ fake_data = ["Your secrets are safe... because they're not saved.",
 "Shhh... it's a secret, or was it?",
 "Like a whisper in the wind, this will be forgotten."
 ]
+def save_file(event=None):
+    download_path = os.path.expanduser("~/Downloads")
+    file_name = "secret_note.txt"
+    file_path = os.path.join(download_path, file_name)
+    with open(file_path,'w') as file:
+        content=mainwindow.get("1.0",tk.END)
+        file.write(content)
+        print("File saved")
 
 root = tk.Tk()
 root.title("Secret Notepad with Encryption")
