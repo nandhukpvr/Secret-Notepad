@@ -16,29 +16,45 @@ Our code repo for the "Useless Project" by tinkerhub on Nov 2024. (CUCEK)
 - Member 3: Sneha V - CUCEK
 
 ### Project Description
-[2-3 lines about what your project does]
+This project is a "Secret Notepad" application built with Python's Tkinter library. It provides a secure notepad interface where users can type and save secret messages. The application features automatic character counting and a random text-based "encryption" that saves each secret message with unique paths.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Ever felt the overwhelming need to save secrets in a way that even you might not remember? Tired of traditional notepads that store secrets far too accessibly? Welcome to the realm of our "Secret Notepad," designed to store secrets in files you’ll likely never locate again!
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Introducing a notepad that saves your secrets, and a self-erasing feature! This app not only hides your message but makes finding it feel like a treasure hunt. Forget traditional security – this is the finest way to manage your secret messages.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
 - Language used : Python
-- [Frameworks used]
-- Libraries Used : Ttinker, OpenCV
-- [Tools used]
+- Frameworks used : Tkinter (Python’s standard GUI framework)
+- Libraries Used : tkinter (for GUI), random (to select fun “encrypted” text), os (for file handling and directory management)
+- Tools used : Visual Studio Code (IDE), Git, Github
+
 
 ### Implementation
 For Software:
-# Installation
-[commands]
 
-# Run
-[commands]
+#### Installation
+1. Ensure Python is installed on your system. You can check with:
+   ```bash
+   python --version
+   ```
+2. Install Tkinter (usually included with Python, but in case it's missing):
+   ```bash
+   sudo apt-get install python3-tk  # for Linux
+   ```
+   or, if on Windows, Tkinter should be available by default with Python.
+
+#### Run
+To start the Secret Notepad application:
+```bash
+python secret_notepad.py
+```
+Replace `secret_notepad.py` with the filename of your script. Enjoy your whimsical secret-keeping!
+
+
 
 ### Project Documentation
 For Software:
