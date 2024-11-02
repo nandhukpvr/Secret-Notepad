@@ -78,16 +78,16 @@ Replace `secret_notepad.py` with the filename of your script. Enjoy your whimsic
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img src="https://github.com/nandhukpvr/Useless-projects-Tinkerhub-Nov-2024/blob/Joyal's-Repository-default-branch/images/Screenshot%202024-11-02%20201257.png?raw=true">
+*Interface*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img src="https://github.com/nandhukpvr/Useless-projects-Tinkerhub-Nov-2024/blob/Joyal's-Repository-default-branch/images/Screenshot%202024-11-02%20201325.png?raw=true">
+*While typing secrets*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img src="https://github.com/nandhukpvr/Useless-projects-Tinkerhub-Nov-2024/blob/Joyal's-Repository-default-branch/images/Screenshot%202024-11-02%20201345.png?raw=true">
+*Saved Message*
 
-# Diagrams
+<!--# Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
@@ -117,11 +117,11 @@ For Hardware:
 
 # Additional Demos
 [Add any extra demo materials/links]
-
+-->
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Nandhu Krishna: [Specific contributions]
+- Joyal James: [Specific contributions]
+- Sneha V: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
