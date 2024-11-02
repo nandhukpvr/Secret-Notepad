@@ -3,17 +3,17 @@ Our code repo for the "Useless Project" by tinkerhub on Nov 2024. (CUCEK)
 
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [Secret Notepad with Face detect] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Logic Overload]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Nandhu Krishna - CUCEK
+- Member 2: Joyal James - CUCEK
+- Member 3: Sneha V - CUCEK
 
 ### Project Description
 [2-3 lines about what your project does]
@@ -27,15 +27,10 @@ Our code repo for the "Useless Project" by tinkerhub on Nov 2024. (CUCEK)
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- Language used : Python
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
