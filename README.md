@@ -3,11 +3,11 @@ Our code repo for the "Useless Project" by tinkerhub on Nov 2024. (CUCEK)
 
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Secret Notepad with Face detect] 🎯
+# Secret Notepad with Face detect 🎯
 
 
 ## Basic Details
-### Team Name: [Logic Overload]
+### Team Name: Logic Overload
 
 
 ### Team Members
