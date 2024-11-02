@@ -33,19 +33,37 @@ For Software:
 - Tools used : Visual Studio Code (IDE), Git, Github
 
 
+Here's an updated version with steps for installing the necessary libraries:
+
+---
+
 ### Implementation
 For Software:
 
 #### Installation
+
 1. Ensure Python is installed on your system. You can check with:
    ```bash
    python --version
    ```
+
 2. Install Tkinter (usually included with Python, but in case it's missing):
    ```bash
    sudo apt-get install python3-tk  # for Linux
    ```
-   or, if on Windows, Tkinter should be available by default with Python.
+   On Windows, Tkinter should be available by default with Python.
+
+3. Install the `python-docx` library to enable creating and editing `.docx` files:
+   ```bash
+   pip install python-docx
+   ```
+
+4. Install the `pywin32` library for interacting with Microsoft Word:
+   ```bash
+   pip install pywin32
+   ```
+
+
 
 #### Run
 To start the Secret Notepad application:
