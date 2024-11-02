@@ -11,7 +11,7 @@ Our code repo for the "Useless Project" by tinkerhub on Nov 2024. (CUCEK)
 
 
 ### Team Members
-- Team Lead: Nandhu Krishna - CUCEK
+- Member 1: Nandhu Krishna - CUCEK
 - Member 2: Joyal James - CUCEK
 - Member 3: Sneha V - CUCEK
 
