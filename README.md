@@ -78,7 +78,7 @@ Replace `secret_notepad.py` with the filename of your script. Enjoy your whimsic
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![<img src="https://github.com/nandhukpvr/Useless-projects-Tinkerhub-Nov-2024/blob/Joyal's-Repository-default-branch/images/Screenshot%202024-11-02%20201257.png?raw=true">](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
