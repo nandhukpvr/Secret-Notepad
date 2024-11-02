@@ -3,7 +3,7 @@ Our code repo for the "Useless Project" by tinkerhub on Nov 2024. (CUCEK)
 
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# Secret Notepad 🎯
+# Secret Notepad with Active Encryption 🎯
 
 
 ## Basic Details
@@ -16,7 +16,7 @@ Our code repo for the "Useless Project" by tinkerhub on Nov 2024. (CUCEK)
 - Member 3: Sneha V - CUCEK
 
 ### Project Description
-This project is a "Secret Notepad" application built with Python's Tkinter library. It provides a secure notepad interface where users can type and save secret messages. The application features automatic character counting and a random text-based "encryption" that saves each secret message with unique paths.
+This project is a "Secret Notepad" application built with Python's Tkinter library. It provides a secure notepad interface where users can type and save secret messages. The application features disappearing text, automatic character counting and a random text-based "encryption" that saves each secret message with unique paths.
 
 ### The Problem (that doesn't exist)
 Ever felt the overwhelming need to save secrets in a way that even you might not remember? Tired of traditional notepads that store secrets far too accessibly? Welcome to the realm of our "Secret Notepad," designed to store secrets in files you’ll likely never locate again!
@@ -78,14 +78,39 @@ Replace `secret_notepad.py` with the filename of your script. Enjoy your whimsic
 For Software:
 
 # Screenshots (Add at least 3)
-<img src="https://github.com/nandhukpvr/Useless-projects-Tinkerhub-Nov-2024/blob/Joyal's-Repository-default-branch/images/Screenshot%202024-11-02%20201257.png?raw=true">
+
 *Interface*
 
-<img src="https://github.com/nandhukpvr/Useless-projects-Tinkerhub-Nov-2024/blob/Joyal's-Repository-default-branch/images/Screenshot%202024-11-02%20201325.png?raw=true">
+<img src="https://github.com/nandhukpvr/Useless-projects-Tinkerhub-Nov-2024/blob/Joyal's-Repository-default-branch/images/Screenshot%202024-11-02%20201257.png?raw=true">
+
+
 *While typing secrets*
 
-<img src="https://github.com/nandhukpvr/Useless-projects-Tinkerhub-Nov-2024/blob/Joyal's-Repository-default-branch/images/Screenshot%202024-11-02%20201345.png?raw=true">
+<img src="https://github.com/nandhukpvr/Useless-projects-Tinkerhub-Nov-2024/blob/Joyal's-Repository-default-branch/images/Screenshot%202024-11-02%20201325.png?raw=true">
+
+
+<!--<img src="https://github.com/nandhukpvr/Useless-projects-Tinkerhub-Nov-2024/blob/Joyal's-Repository-default-branch/images/Screenshot%202024-11-02%20201345.png?raw=true">
 *Saved Message*
+-->
+
+*Saving Message*
+
+<img src="https://github.com/nandhukpvr/Useless-projects-Tinkerhub-Nov-2024/blob/Joyal's-Repository-default-branch/images/1.png">
+
+
+*In Downloads Folder (Not Documents)*
+
+<img src="https://github.com/nandhukpvr/Useless-projects-Tinkerhub-Nov-2024/blob/Joyal's-Repository-default-branch/images/2.png">
+
+
+*Password Protected File*
+
+<img src="https://github.com/nandhukpvr/Useless-projects-Tinkerhub-Nov-2024/blob/Joyal's-Repository-default-branch/images/3.png">
+
+
+*The saved file (Surprise)*
+
+<img src="https://github.com/nandhukpvr/Useless-projects-Tinkerhub-Nov-2024/blob/Joyal's-Repository-default-branch/images/4.png">
 
 <!--# Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -118,10 +143,10 @@ For Hardware:
 # Additional Demos
 [Add any extra demo materials/links]
 -->
+
 ## Team Contributions
-- Nandhu Krishna: [Specific contributions]
-- Joyal James: [Specific contributions]
-- Sneha V: [Specific contributions]
+- Nandhu Krishna: Ideation, Outline & Structure, Code Development, Documentation (README), Finalization.
+- Joyal James: Ideation, Code Development, Documentation (README), Finalization.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
