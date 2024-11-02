@@ -55,20 +55,20 @@ def save_file(event=None):
 
 fake_data = [
     "Your secrets are safe... because they're not saved.",
-    "Secrets are meant to be forgotten!",
-    "Don't waste your time with secrets.",
+    "Secrets are meant to be forgotten!, so I just did it for you !",
+    "Don't waste your time with secrets. I didnt !",
     "Lost in the void... just like your secrets.",
     "No one will find this because it's never saved!",
     "A memory is fleeting, just like this note.",
-    "Hidden so well, even you won't retrieve it.",
+    "Hidden so well, even you won't retrieve it.. Ever !",
     "Don't worry; your secrets are safe in the ether.",
-    "Shhh... it's a secret, or was it?",
-    "Like a whisper in the wind, this will be forgotten."
+    "Shhh... it's a secret, or was it ?",
+    "Like a whisper in the wind, all was forgotten."
 ]
 
 initial_message = "Type your secrets here..."
 root = tk.Tk()
-root.title("Secret Notepad with Encryption")
+root.title("Secret Notepad with Active Encryption")
 root.geometry("600x600")
 root.configure(bg="#c4c4c4")
 
