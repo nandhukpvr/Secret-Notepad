@@ -29,7 +29,7 @@ Our code repo for the "Useless Project" by tinkerhub on Nov 2024. (CUCEK)
 For Software:
 - Language used : Python
 - [Frameworks used]
-- [Libraries used]
+- Libraries Used : Ttinker, OpenCV
 - [Tools used]
 
 ### Implementation
