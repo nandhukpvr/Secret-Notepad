@@ -46,7 +46,7 @@ root.title("Secret Notepad with Encryption")
 root.geometry("600x600")
 root.configure(bg="#c4c4c4")
 
-mainwindow = tk.Text(root, width=80, height=15,font=("Verdana" ,20), wrap="word",fg="#000000", bg="#f7f5f5", insertbackground="black")
+mainwindow = tk.Text(root, width=80, height=15,font=("Verdana" ,20), wrap="word",fg="#000000", bg="#f7f5f5", insertbackground="black" ,selectbackground="#f7f5f5")
 
 mainwindow.pack(pady=10, padx=10)
 mainwindow.insert("1.0", initial_message)
