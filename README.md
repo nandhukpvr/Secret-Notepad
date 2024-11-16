@@ -3,7 +3,7 @@ Our code repo for the "Useless Project" by tinkerhub on Nov 2024. (CUCEK)
 
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# Secret Notepad with Active Encryption 🎯
+# Secret Notepad with Disappearing Text 🎯
 
 
 ## Basic Details
@@ -16,13 +16,13 @@ Our code repo for the "Useless Project" by tinkerhub on Nov 2024. (CUCEK)
 - Member 3: Sneha V - CUCEK
 
 ### Project Description
-This project is a "Secret Notepad" application built with Python's Tkinter library. It provides a secure notepad interface where users can type and save secret messages. The application features disappearing text, automatic character counting and a random text-based "encryption" that saves each secret message with unique paths.
+This project is a "Secret Notepad" application built with Python's Tkinter library. It provides a secure notepad interface where users can type and save secret messages. The application features disappearing text and automatic character counting that saves the secret message with password protection to a local path but with a surprise.
 
 ### The Problem (that doesn't exist)
-Ever felt the overwhelming need to save secrets in a way that even you might not remember? Tired of traditional notepads that store secrets far too accessibly? Welcome to the realm of our "Secret Notepad," designed to store secrets in files you’ll likely never locate again!
+Ever felt the overwhelming need to save secrets in a way that even you might not remember? Tired of traditional notepads that store secrets far too accessibly? Welcome to the realm of our "Secret Notepad," designed to store secrets in files you’ll likely never locate again! and even if you do, its of no use!
 
 ### The Solution (that nobody asked for)
-Introducing a notepad that saves your secrets, and a self-erasing feature! This app not only hides your message but makes finding it feel like a treasure hunt. Forget traditional security – this is the finest way to manage your secret messages.
+Introducing a notepad with a self-erasing feature that hides your message! This app not only saves your secret file but makes finding it feel like a treasure hunt. Forget traditional security – this is the finest way to manage your secret messages. Even after locating the file location, you have to unlock it with a password. After that the message diplayed in the saved file will make it clear to you, how perfect our safety features are !
 
 ## Technical Details
 ### Technologies/Components Used
@@ -77,7 +77,13 @@ Replace `secret_notepad.py` with the filename of your script. Enjoy your whimsic
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+---
+
+# Video Link for demo : https://www.youtube.com/watch?v=cId4_qRk9Ko
+
+---
+
+# Screenshots
 
 *Interface*
 
@@ -93,22 +99,22 @@ For Software:
 *Saved Message*
 -->
 
-*Saving Message*
+*Saving Message (Shows downloaded to Documents - it's a prank)*
 
 <img src="https://github.com/nandhukpvr/Useless-projects-Tinkerhub-Nov-2024/blob/Joyal's-Repository-default-branch/images/1.png">
 
 
-*In Downloads Folder (Not Documents)*
+*Original file is in the Downloads Folder (Not Documents)*
 
 <img src="https://github.com/nandhukpvr/Useless-projects-Tinkerhub-Nov-2024/blob/Joyal's-Repository-default-branch/images/2.png">
 
 
-*Password Protected File*
+*Password Protected Word File*
 
 <img src="https://github.com/nandhukpvr/Useless-projects-Tinkerhub-Nov-2024/blob/Joyal's-Repository-default-branch/images/3.png">
 
 
-*The saved file (Surprise)*
+*The contents of the saved file (Surprise - it is not the secret message you typed. Its just some random message !)*
 
 <img src="https://github.com/nandhukpvr/Useless-projects-Tinkerhub-Nov-2024/blob/Joyal's-Repository-default-branch/images/4.png">
 
