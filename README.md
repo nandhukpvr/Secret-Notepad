@@ -79,7 +79,13 @@ For Software:
 
 ---
 
-# Video Link for demo : https://www.youtube.com/watch?v=cId4_qRk9Ko
+### Project Demo
+# Video
+Welcome to my project! Watch the demo video on how Secret notepad works:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cId4_qRk9Ko/0.jpg)](https://www.youtube.com/watch?v=cId4_qRk9Ko)
+
+*This video demonstrates how the Secret notepad software works and how it is completely useless.*
+
 
 ---
 
@@ -104,7 +110,7 @@ For Software:
 <img src="https://github.com/nandhukpvr/Useless-projects-Tinkerhub-Nov-2024/blob/Joyal's-Repository-default-branch/images/1.png">
 
 
-*Original file is in the Downloads Folder (Not Documents)*
+*Original file is saved to the "Downloads" Folder (Not Documents folder)*
 
 <img src="https://github.com/nandhukpvr/Useless-projects-Tinkerhub-Nov-2024/blob/Joyal's-Repository-default-branch/images/2.png">
 
@@ -141,10 +147,7 @@ For Hardware:
 ![Final](Add photo of final product here)
 *Explain the final build*
 
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+
 
 # Additional Demos
 [Add any extra demo materials/links]
