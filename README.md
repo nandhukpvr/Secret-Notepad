@@ -93,7 +93,7 @@ Welcome to my project! Watch the demo video on how Secret notepad works:
 
 *Interface*
 
-<img src="https://github.com/nandhukpvr/Useless-projects-Tinkerhub-Nov-2024/blob/Joyal's-Repository-default-branch/images/Screenshot%202024-11-02%20201257.png?raw=true">
+<img src="images/5.png raw=true">
 
 
 *While typing secrets*
