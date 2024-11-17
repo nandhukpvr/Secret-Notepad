@@ -93,12 +93,12 @@ Welcome to my project! Watch the demo video on how Secret notepad works:
 
 *Interface*
 
-<img src="images/5.png raw=true">
+<img src="https://github.com/nandhukpvr/Secret-Notepad/blob/Joyal's-Repository-default-branch/images/5.png? raw=true">
 
 
 *While typing secrets*
 
-<img src="https://github.com/nandhukpvr/Useless-projects-Tinkerhub-Nov-2024/blob/Joyal's-Repository-default-branch/images/Screenshot%202024-11-02%20201325.png?raw=true">
+<img src="https://github.com/nandhukpvr/Secret-Notepad/blob/Joyal's-Repository-default-branch/images/6.png?raw=true">
 
 
 <!--<img src="https://github.com/nandhukpvr/Useless-projects-Tinkerhub-Nov-2024/blob/Joyal's-Repository-default-branch/images/Screenshot%202024-11-02%20201345.png?raw=true">
@@ -107,7 +107,7 @@ Welcome to my project! Watch the demo video on how Secret notepad works:
 
 *Saving Message (Shows downloaded to Documents - it's a prank)*
 
-<img src="https://github.com/nandhukpvr/Useless-projects-Tinkerhub-Nov-2024/blob/Joyal's-Repository-default-branch/images/1.png">
+<img src="https://github.com/nandhukpvr/Secret-Notepad/blob/Joyal's-Repository-default-branch/images/7.png?raw=true">
 
 
 *Original file is saved to the "Downloads" Folder (Not Documents folder)*
